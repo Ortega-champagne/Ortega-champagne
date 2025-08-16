@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/Ortega-champagne/Ortega-champagne/blob/main/Dark%20Modern%20Elegant%20Singer%20New%20Son)
+![Design and Development]([https://github.com/Ortega-champagne/Ortega-champagne/blob/main/Dark%20Modern%20Elegant%20Singer%20New%20Son](https://github.com/Ortega-champagne/Ortega-champagne/blob/345a7305da93bc07be116007802334b0a13a78a4/Dark%20Modern%20Elegant%20Singer%20New%20Song%20YouTube%20Thumbnail.png))
 ## Hi Im Champagne 🙋‍♀️
 
 **Ortega-champagne/Ortega-champagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
