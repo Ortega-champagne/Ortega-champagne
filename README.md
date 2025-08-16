@@ -1,4 +1,4 @@
-![](https://github.com/Ortega-champagne/Ortega-champagne/commit/40a40cbce38c0decb6299417af4c54fc1b07543e)
+![]([https://github.com/Ortega-champagne/Ortega-champagne/commit/40a40cbce38c0decb6299417af4c54fc1b07543e](https://github.com/Ortega-champagne/Ortega-champagne#:~:text=1-,minute,-ago))
 
 ## Hi Im Champagne 🙋‍♀️
 
