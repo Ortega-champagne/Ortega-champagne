@@ -1,4 +1,4 @@
-![](https://github.com/Ortega-champagne/Ortega-champagne/blob/3cc6dd77ff42fcd0dc5dcae1a46ddf0543fff686/Organic%20Company%20Facebook%20Cover%20Design.png)
+![](https://github.com/Ortega-champagne/Ortega-champagne/commit/40a40cbce38c0decb6299417af4c54fc1b07543e)
 
 ## Hi Im Champagne 🙋‍♀️
 
